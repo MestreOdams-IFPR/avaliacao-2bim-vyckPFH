@@ -20,7 +20,7 @@ public class prova {
         }
         
         
-       return (n + calcFibo(n-1)) + (n-2 + calcFibo(n-2)) + (n-3 + calcFibo(n-3));
+       return (n + calcFibo(n-1)) + (n-2 + calcFibo(n-2)) + (n-3 + calcFibo(n-3)); // erros na formação da chamada recursiva
 
     }
 

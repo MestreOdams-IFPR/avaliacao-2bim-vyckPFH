@@ -26,8 +26,6 @@ public class ordemJedi {
 
     }
 
-    
-
     public static void mergeRec(int[] vetor, int inicio, int fim) {
         int meio = 0;
         if (inicio < fim - 1) {
